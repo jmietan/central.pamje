@@ -1,5 +1,6 @@
 Body{
-    font-family: "Libre Baskerville", serif;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
 }
@@ -11,12 +12,21 @@ h1{
     font-style: normal;
 }
 
-h2, h3, h4 , h5{
+h2, h3, h4 {
     font-family: "Libre Baskerville", serif;
     font-weight: 400;
     font-style: normal;
     color: #1E429B;
 }
+
+h5 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #1E429B;
+}
+
 
 .cen-p-line-height {
     line-height: .5rem;
@@ -33,13 +43,12 @@ h2, h3, h4 , h5{
 
 .cen-bg-darkblue-opacity{
     background-color: #002968;
-    opacity: 70%;
+    opacity: 80%;
 }
 
-.cen-h2-darkblue {
-    font-family: "Libre Baskerville", serif;
-    font-weight: bold;
+.cen-font-darkblue {
     color: #1E429B;
+    font-weight: 600;
 }
 
 .cen-bg-darkgrey{
@@ -48,30 +57,64 @@ h2, h3, h4 , h5{
 
 
 
+.cen-hero-title{
+    letter-spacing: .2rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cen-hero-blurb{
+    letter-spacing: .5rem;
+}
 /*--------------------------------------------------------------
 # NAV
 --------------------------------------------------------------*/
+.nav-item{
+    font-size: .9rem;
+}
 .nav-item a:hover{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
     background-color: #0d6efd;
     color: #fff;
+    font-size: .9rem;
 }
 
 .dropdown-menu a {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
     background-color: #002968;
     color: #fff;
     border-radius: 0;
+    font-size: .9rem;
 }
 
 .dropdown a:hover {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
     background-color: #0d6efd;
     color: #fff;
     border-radius: 0;
+    font-size: .9rem;
 }
 
 .dropdown-menu a:link {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
     background-color: #002968;
     color: #fff;
     border-radius: 0;
+    font-size: .9rem;
 }
 
 .dropdown-menu a.dropdown-item:hover {
@@ -98,7 +141,7 @@ h2, h3, h4 , h5{
 .cen-btn-darkblue{
     background-color: #002968;
     border: 0;
-    border-radius: 0;
+    border-radius: 5;
 }
 
 .cen-breadcrumbs{

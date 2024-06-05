@@ -25,8 +25,8 @@
   </head>
   <body>
 
-      <header class="pt-3">
-        <div class="container d-flex flex-wrap align-self-center mb-1">
+      <header class="pt-3 ">
+        <div class="container d-flex flex-wrap align-self-center mb-1 w-100">
           <a href="#" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto link-body-emphasis text-decoration-none">
             <img src="img/central-logo.svg" alt="The Homestread Logo" width="100" height="100">
           </a>

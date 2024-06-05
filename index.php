@@ -17,31 +17,48 @@
             <img src="img/carousel-1.jpg" class="d-block  custom-car-img-height-sm" alt="carousel 1">
             <div class="carousel-caption text-center">
               <div class="mt-sm-5 py-3">
-                  <h2 class="text-white display-4  cen-btn-darkblue p-2">First slide label</h2>
-                  <p class="text-white  cen-btn-darkblue p-2">Some representative placeholder content for the first slide.</p>
+                  <h2 class="text-white display-4 m-4 cen-hero-title">
+                  <span class="cen-bg-darkblue-opacity p-2 "> First slide label </span></h2>
+                  <p class="text-white m-4 cen-hero-blurb">
+                  <span class="cen-bg-darkblue-opacity p-2"> FIRST CONTENT FEATURED 
+                  </span>
+                  </p>
                 
               </div>
               <div class="button">
-                <a href="#" class="btn btn-primary cen-btn-darkblue p-2" role="button">Learn more</a>
+                <a href="#" class="btn btn-primary cen-btn-darkblue py-2 px-3" role="button">Learn more</a>
               </div>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://via.placeholder.com/1920x583" class="d-block custom-car-img-height-sm" alt="carousel 2">
+            <img src="img/carousel-3.jpg" class="d-block custom-car-img-height-sm" alt="carousel 2">
             <div class="carousel-caption ">
-              <div class="cen-bg-darkblue-opacity mt-sm-5 py-3">
-                <h2 class="text-white display-4">2nd slide label</h2>
-                <p class="text-white ">Some representative placeholder content for the first slide.</p>
-
+              <div class="mt-sm-5 py-3">
+                 <h2 class="text-white display-4 m-4 cen-hero-title">
+                  <span class="cen-bg-darkblue-opacity p-2"> Second slide label </span></h2>
+                  <p class="text-white m-4 cen-hero-blurb">
+                  <span class="cen-bg-darkblue-opacity p-2"> SECOND CONTENT FEATURED 
+                  </span>
+                  </p>
+              </div>
+              <div class="button">
+                <a href="#" class="btn btn-primary cen-btn-darkblue py-2 px-3" role="button">Learn more</a>
               </div>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-3.jpg" class="d-block custom-car-img-height-sm" alt="carousel 3">
+            <img src="img/carousel-1.jpg" class="d-block custom-car-img-height-sm" alt="carousel 3">
             <div class="carousel-caption ">
-              <div class="cen-bg-darkblue-opacity mt-sm-5 py-3">
-                <h2 class="text-white display-4">3rd slide label</h2>
-                <p class="text-white ">Some representative placeholder content for the first slide.</p>
+              <div class="mt-sm-5 py-3">
+                <h2 class="text-white display-4 m-4 cen-hero-title">
+                  <span class="cen-bg-darkblue-opacity p-2"> Third slide label </span></h2>
+                  <p class="text-white m-4 cen-hero-blurb">
+                  <span class="cen-bg-darkblue-opacity p-2"> THIRD CONTENT FEATURED
+                  </span>
+                  </p> 
+              </div>
+              <div class="button">
+                <a href="#" class="btn btn-primary cen-btn-darkblue py-2 px-3" role="button">Learn more</a>
               </div>
             </div>
           </div>
@@ -59,11 +76,11 @@
     
 
     <!--central features section-->
-    <div class="container mb-5">
+    <div class="container my-5 ">
       <!-- First Row: Central Features -->
-      <div class="row my-4">
-        <div class="col d-flex justify-content-between">
-          <h2 class="cen-h2-darkblue">Central Features</h2>
+      <div class="row my-4 ">
+        <div class="col d-flex justify-content-between align-items-center">
+          <h2 class="cen-font-darkblue">Central Features</h2>
           <a href="#" class="btn btn-primary">View all</a>
         </div>
       </div>
@@ -74,7 +91,7 @@
           <div class="card rounded-0">
             <img class="card-img-top rounded-0" src="https://via.placeholder.com/268x161" alt="Card 1">
             <div class="card-body">
-              <h5 class="card-title cen-h2-darkblue">Card 1</h5>
+              <h5 class="card-title cen-font-darkblue">Card 1</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
@@ -84,7 +101,7 @@
           <div class="card rounded-0">
             <img class="card-img-top rounded-0" src="https://via.placeholder.com/268x161" alt="Card 2">
             <div class="card-body">
-              <h5 class="card-title cen-h2-darkblue">Card 2</h5>
+              <h5 class="card-title cen-font-darkblue">Card 2</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
@@ -94,7 +111,7 @@
           <div class="card rounded-0">
             <img class="card-img-top rounded-0" src="https://via.placeholder.com/268x161" alt="Card 3">
             <div class="card-body">
-              <h5 class="card-title cen-h2-darkblue">Card 3</h5>
+              <h5 class="card-title cen-font-darkblue">Card 3</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
@@ -104,7 +121,7 @@
           <div class="card rounded-0">
             <img class="card-img-top rounded-0" src="https://via.placeholder.com/268x161" alt="Card 4">
             <div class="card-body">
-              <h5 class="card-title cen-h2-darkblue">Card 4</h5>
+              <h5 class="card-title cen-font-darkblue">Card 4</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
@@ -114,10 +131,10 @@
 
 
     <!-- Medical Journals Online-->
-    <div class="container cen-bg-darkgrey mb-5  py-5 ">
+    <div class="container cen-bg-darkgrey   py-5 ">
 
       <div class="card-body">
-        <h3 class="card-title cen-h2-darkblue my-3 text-center">Medical Journal Online</h3>
+        <h2 class="card-title my-3 text-center cen-font-darkblue">Medical Journal Online</h2>
         <p class="card-text text-left px-5">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem.</p>
         
         <div class="container">
@@ -181,46 +198,46 @@
 
 
     <!--News and Announcement-->
-    <div class="container mb-5">
+    <div class="container py-5 ">
       <!-- First Row: Heading -->
       <div class="row my-4">
-        <div class="col d-flex justify-content-between">
-          <h2 class="cen-h2-darkblue">News and Announcement</h2>
+        <div class="col d-flex justify-content-between align-items-center">
+          <h2 class="cen-font-darkblue">News and Announcement</h2>
           <a href="#" class="btn btn-primary">View all</a>
         </div>
       </div>
     
       <!-- Row with 3 Cards -->
-      <div class="row border-1 border-success">
-          <div class="row py-5">
+      <div class="row">
+          
             <!-- First Card -->
-            <div class="col-12 col-md-4  mb-3">
-              <div class="card bg-light rounded-0">
+            <div class="col-12 col-md-4 d-flex justify-content-center mb-3 ">
+              <div class="card bg-light rounded-0 ">
                 <img src="https://via.placeholder.com/350x200" class="card-img-top rounded-0" alt="Placeholder Image">
                 <div class="card-body">
-                  <h5 class="card-title cen-h2-darkblue">Card 1 Title</h5>
+                  <h5 class="card-title cen-font-darkblue">Card 1 Title</h5>
                 </div>
               </div>
             </div>
             <!-- Second Card -->
-            <div class=" col-12 col-md-4 mb-3">
+            <div class="col-12 col-md-4 d-flex justify-content-center mb-3">
               <div class="card bg-light rounded-0">
                 <img src="https://via.placeholder.com/350x200" class="card-img-top rounded-0" alt="Placeholder Image">
                 <div class="card-body">
-                  <h5 class="card-title cen-h2-darkblue">Card 2 Title</h5>
+                  <h5 class="card-title cen-font-darkblue">Card 2 Title</h5>
                 </div>
               </div>
             </div>
             <!-- Third Card -->
-            <div class="col-12 col-md-4 mb-3">
+            <div class="col-12 col-md-4 d-flex justify-content-center mb-3">
               <div class="card bg-light rounded-0">
                 <img src="https://via.placeholder.com/350x200" class="card-img-top rounded-0" alt="Placeholder Image">
                 <div class="card-body">
-                  <h5 class="card-title cen-h2-darkblue">Card 3 Title</h5>
+                  <h5 class="card-title cen-font-darkblue">Card 3 Title</h5>
                 </div>
               </div>
             </div>
-          </div> 
+           
       </div>
     </div>
     </main>

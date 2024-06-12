@@ -85,7 +85,7 @@
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="for_editors.php">For Editors</a></li>
                   <li><a class="dropdown-item" href="#">For Researchers</a></li>
-                  <li><a class="dropdown-item" href="#">For Authors</a></li>
+                  <li><a class="dropdown-item" href="for_authors.php">For Authors</a></li>
                   <li><a class="dropdown-item" href="#">For Peer Reviewers</a></li>
 
                 </ul>

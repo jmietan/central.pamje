@@ -27,6 +27,9 @@ h5 {
     color: #1E429B;
 }
 
+a{
+    color: #1E429B;
+}
 
 .cen-p-line-height {
     line-height: .5rem;
@@ -68,6 +71,8 @@ h5 {
 .cen-hero-blurb{
     letter-spacing: .5rem;
 }
+
+
 /*--------------------------------------------------------------
 # NAV
 --------------------------------------------------------------*/
@@ -153,6 +158,15 @@ h5 {
     color: #4E5053;
 }
 
+
+a.card-link{
+    text-decoration: none;
+}
+
+a.card-link:hover{
+    color: #219BF3;
+    text-decoration: none;
+}
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
@@ -181,6 +195,22 @@ h5 {
     font-family: "Raleway", sans-serif;
     font-size: 14px;
   }
+
+/*--------------------------------------------------------------
+# Card image transition
+--------------------------------------------------------------*/
+
+.card-item {
+    overflow: hidden;
+}
+
+.card-item img {
+    transition: all ease-in-out 0.4s;
+}
+
+.card-item:hover img {
+    transform: scale(1.1);
+}
 
 
 /*--------------------------------------------------------------

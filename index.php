@@ -89,9 +89,11 @@
         <!-- Card 1 -->
         <div class="col">
           <div class="card rounded-0">
-            <img class="card-img-top rounded-0" src="https://via.placeholder.com/268x161" alt="Card 1">
+          <div class="card-item">
+            <a href= "#"><img class="card-img-top rounded-0 " src="img/card1.jpg" alt="Card 1"></a>
+          </div>
             <div class="card-body">
-              <h5 class="card-title cen-font-darkblue">Card 1</h5>
+              <h5 class="card-title  cen-font-darkblue"><a href="#" class="card-link">Card 1</a></h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
@@ -99,9 +101,11 @@
         <!-- Card 2 -->
         <div class="col">
           <div class="card rounded-0">
-            <img class="card-img-top rounded-0" src="https://via.placeholder.com/268x161" alt="Card 2">
+            <div class="card-item">
+              <a href= "#"><img class="card-img-top rounded-0" src="img/card2.jpg" alt="Card 2"></a>
+            </div>
             <div class="card-body">
-              <h5 class="card-title cen-font-darkblue">Card 2</h5>
+              <h5 class="card-title  cen-font-darkblue"><a href="#" class="card-link">Card 2 </a></h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
@@ -109,9 +113,11 @@
         <!-- Card 3 -->
         <div class="col">
           <div class="card rounded-0">
-            <img class="card-img-top rounded-0" src="https://via.placeholder.com/268x161" alt="Card 3">
+            <div class="card-item">
+              <a href= "#"><img class="card-img-top rounded-0 img-fluid" src="img/card3.jpg" alt="Card 3"></a>
+            </div>
             <div class="card-body">
-              <h5 class="card-title cen-font-darkblue">Card 3</h5>
+              <h5 class="card-title cen-font-darkblue"><a href="#" class="card-link">Card 3</a></h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
@@ -119,9 +125,11 @@
         <!-- Card 4 -->
         <div class="col">
           <div class="card rounded-0">
-            <img class="card-img-top rounded-0" src="https://via.placeholder.com/268x161" alt="Card 4">
+            <div class="card-item">
+               <a href= "#"><img class="card-img-top rounded-0" src="img/card4.jpg" alt="Card 4"></a>
+            </div>
             <div class="card-body">
-              <h5 class="card-title cen-font-darkblue">Card 4</h5>
+              <h5 class="card-title cen-font-darkblue"><a href="#" class="card-link">Card 4</a></h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             </div>
           </div>
@@ -213,27 +221,33 @@
             <!-- First Card -->
             <div class="col-12 col-md-4 d-flex justify-content-center mb-3 ">
               <div class="card bg-light rounded-0 ">
-                <img src="https://via.placeholder.com/350x200" class="card-img-top rounded-0" alt="Placeholder Image">
+              <div class="card-item">
+                <a href= "#"> <img src="img/news1.jpg" class="card-img-top rounded-0" alt="Placeholder Image"></a>
+              </div>
                 <div class="card-body">
-                  <h5 class="card-title cen-font-darkblue">Card 1 Title</h5>
+                  <h5 class="card-title cen-font-darkblue"><a href= "#" class="card-link">Card 1 Title</a></h5>
                 </div>
               </div>
             </div>
             <!-- Second Card -->
             <div class="col-12 col-md-4 d-flex justify-content-center mb-3">
               <div class="card bg-light rounded-0">
-                <img src="https://via.placeholder.com/350x200" class="card-img-top rounded-0" alt="Placeholder Image">
+              <div class="card-item">
+                <a href= "#"><img src="img/news2.jpg" class="card-img-top rounded-0" alt="Placeholder Image"></a>
+              </div>
                 <div class="card-body">
-                  <h5 class="card-title cen-font-darkblue">Card 2 Title</h5>
+                  <h5 class="card-title cen-font-darkblue"><a href= "#" class="card-link">Card 2 Title</a></h5>
                 </div>
               </div>
             </div>
             <!-- Third Card -->
             <div class="col-12 col-md-4 d-flex justify-content-center mb-3">
               <div class="card bg-light rounded-0">
-                <img src="https://via.placeholder.com/350x200" class="card-img-top rounded-0" alt="Placeholder Image">
+              <div class="card-item">
+                <a href= "#"><img src="img/news3.jpg" class="card-img-top rounded-0" alt="Placeholder Image"></a>
+              </div>
                 <div class="card-body">
-                  <h5 class="card-title cen-font-darkblue">Card 3 Title</h5>
+                  <h5 class="card-title cen-font-darkblue"><a href= "#" class="card-link">Card 3 Title </a></h5>
                 </div>
               </div>
             </div>

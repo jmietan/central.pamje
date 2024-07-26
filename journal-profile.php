@@ -35,8 +35,18 @@
                 <div class="col-sm-2">
                     <a href="#"><img src="img/journals_logo/pjohns_logo.jpg"  alt="#"  class="w-100"></a>
                 </div>
-                <div class="col-sm-10 my-5" >
+                <div class="col-sm-10 my-2" >
                      <h2 class="fw-bold fs-1">Philippine Society of Otolaryngology Head and Neck Surgery</h2> 
+                     <p><span class="p-bold"> Website: </span>
+                      <a href="https://philippinejournalofpathology.org/index.php/PJP">
+                        https://philippinejournalofpathology.org/index.php/PJP </a>
+                    </p>
+                    <p>
+                      <span class="p-bold">Email:</span> philippinepathologyjournal@ gmail.com
+                    </p>
+                    <p>
+                      <span class="p-bold">Mobile No:</span> 09202548762
+                    </p>
                 </div>
               </div>
              

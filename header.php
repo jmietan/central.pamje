@@ -73,12 +73,20 @@
               <a class="nav-link text-white" href="#">ABOUT US</a>
             </li>
             <li class="nav-item px-3">
-              <a class="nav-link text-white " href="journal.php">JOURNALS</a>
+              <div class="dropdown">
+                <a class="btn btn-secondary dropdown-toggle nav-link text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">JOURNALS</a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="journals.php">By Alphabetical</a></li>
+                  <li><a class="dropdown-item" href="journal-category.php">By Category</a></li>
+ 
+                
+                </ul>
+ 
+              </div>
             </li>
             <li class="nav-item px-3">
               <div class="dropdown">
-                <a class="btn btn-secondary dropdown-toggle nav-link text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                 RESOURCES
+                <a class="btn btn-secondary dropdown-toggle nav-link text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">RESOURCES
                 </a>
               
                 <ul class="dropdown-menu">

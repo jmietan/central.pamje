@@ -31,6 +31,11 @@ a{
     color: #1E429B;
 }
 
+.p-bold {
+    font-weight: 700;
+    color: #4E5053;
+}
+
 .cen-p-line-height {
     line-height: .5rem;
 }
@@ -152,12 +157,26 @@ a{
     border-radius: 5;
 }
 
-.cen-breadcrumbs{
+a.cen-breadcrumbs{
     font-style: italic;
     text-decoration: none;
     color: #4E5053;
 }
 
+a.cen-breadcrumbs:hover{
+    font-style: italic;
+    text-decoration:underline;
+    color: #4E5053;
+}
+
+a.journal-name{
+    text-decoration:none;
+}
+
+a.journal-name:hover{
+    text-decoration:none;
+    color: #0d6efd;
+}
 
 a.card-link{
     text-decoration: none;

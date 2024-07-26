@@ -86,12 +86,12 @@
             <!-- journal item 1-->
             <div class="journal-item">
               <div class="row my-4">
-                    <h2>Philippine Journal of Pathology (PJP)</h2>       
+                    <h2><a href="journal-profile.php" class="journal-name">Philippine Journal of Pathology (PJP)</a></h2>       
               </div>
                       
               <div class="row  my-4">
                 <div class="col-sm-2 ">
-                    <a href="journal_profile.php"><img src="img/journals_logo/phil-journal-pathology.jpg"  alt="#"  class="w-100"></a>
+                    <a href="journal-profile.php"><img src="img/journals_logo/phil-journal-pathology.jpg"  alt="#"  class="w-100"></a>
                 </div>
                 <div class="col-sm-10" >
                   <p>
@@ -104,7 +104,7 @@
                     <span class="p-bold"> Editor in Chief:</span>  Amado Tandoc III, MD
                   </p>
                   <p>
-                      <span class="p-bold">Pointh Person:</span> Melissa Tandoc
+                      <span class="p-bold">Point Person:</span> Melissa Tandoc
                   </p>
                   <p>
                     <span class="p-bold">Email:</span> philippinepathologyjournal@ gmail.com
@@ -113,7 +113,7 @@
                     <span class="p-bold">Mobile No:</span> 09202548762
                   </p>
                   <p>
-                    <a href="#" >View more Information</a>
+                    <a href="journal-profile.php" >View more Information</a>
                   </p>
                 </div>
               </div>
@@ -123,8 +123,7 @@
             <!-- journal item 2-->
             <div class="journal-item">
               <div class="row my-4">
-                    <h2>Philippine Journal of Otolaryngology Head and Neck Surgery
-(PJOHNS)</h2>       
+                    <h2><a href="journal-profile.php" class="journal-name">Philippine Journal of Otolaryngology Head and Neck Surgery(PJOHNS)</a></h2>       
               </div>
                       
               <div class="row  my-4">
@@ -142,7 +141,7 @@
                     <span class="p-bold"> Editor in Chief:</span>  Amado Tandoc III, MD
                   </p>
                   <p>
-                      <span class="p-bold">Pointh Person:</span> Melissa Tandoc
+                      <span class="p-bold">Point Person:</span> Melissa Tandoc
                   </p>
                   <p>
                     <span class="p-bold">Email:</span> philippinepathologyjournal@ gmail.com
@@ -151,7 +150,7 @@
                     <span class="p-bold">Mobile No:</span> 09202548762
                   </p>
                   <p>
-                    <a href="#" >View more Information</a>
+                    <a href="journal-profile.php" >View more Information</a>
                   </p>
                 </div>
               </div>

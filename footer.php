@@ -4,18 +4,18 @@
         <div class="container d-flex  ">
           <footer class="row cols-1 w-100 ">
 
-            <div class="col my-3 border border-3 border-success ">
+            <div class="col my-3">
               <img src="img/logo1-2-white1.svg" alt="Central Logo" width="150" height="150">
               <p class="text-white lh-sm ms-3">Mailing Address:</p>
               <p class="text-white lh-sm ms-3">Telephone:</p>
               <p class="text-white lh-sm ms-3">Email:</p>
             </div>
         
-            <div class="col mt-5  border border-3 border-success ">
+            <div class="col mt-5">
         
             </div>
         
-            <div class="col mt-5 border border-3 border-success">
+            <div class="col mt-5 ">
               <h5 class="text-white">About Us</h5>
               <ul class="nav flex-column">
                 <li class="nav-item mb-2 padding-left-2"><a href="#" class="nav-link p-2 text-white">PAMJE</a></li>
@@ -24,7 +24,7 @@
               </ul>
             </div>
         
-            <div class="col mt-5 border border-3 border-success">
+            <div class="col mt-5 ">
               <h5 class="text-white">Journals</h5>
               <ul class="nav flex-column">
                 <li class="nav-item mb-2"><a href="journal.php" class="nav-link p-2 text-white">By Alphabetical</a></li>
@@ -32,7 +32,7 @@
               </ul>
             </div>
         
-            <div class="col mt-5 border border-3 border-success">
+            <div class="col mt-5 ">
               <h5 class="text-white">Resources</h5>
               <ul class="nav flex-column">
                 <li class="nav-item mb-2"><a href="#" class="nav-link p-2 text-white">For Editors</a></li>
@@ -43,7 +43,7 @@
               </ul>
             </div>
 
-            <div class="col mt-5 border border-3 border-success">
+            <div class="col mt-5 ">
               <h5 class="text-white">Announcement</h5>
               <ul class="nav flex-column">
                 <li class="nav-item mb-2"><a href="#" class="nav-link p-2 text-white">What happened recently?</a></li>
@@ -52,7 +52,7 @@
               </ul>
             </div>
 
-            <div class="col mt-5 border border-3 border-success" >
+            <div class="col mt-5 " >
               <h5 class="text-white">Contact</h5>
               <ul class="nav flex-column">
                 <li class="nav-item mb-2"><a href="#" class="nav-link p-2 text-white">Fb messenger</a></li>

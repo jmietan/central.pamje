@@ -76,7 +76,7 @@
               <div class="dropdown">
                 <a class="btn btn-secondary dropdown-toggle nav-link text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">JOURNALS</a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="journals.php">By Alphabetical</a></li>
+                  <li><a class="dropdown-item" href="journal.php">By Alphabetical</a></li>
                   <li><a class="dropdown-item" href="journal-category.php">By Category</a></li>
  
                 
@@ -91,8 +91,8 @@
               
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="for-editors.php">For Editors</a></li>
-                  <li><a class="dropdown-item" href="#">For Researchers</a></li>
-                  <li><a class="dropdown-item" href="for_authors.php">For Authors</a></li>
+                  <li><a class="dropdown-item" href="for-resources.php">For Researchers</a></li>
+                  <li><a class="dropdown-item" href="for-authors.php">For Authors</a></li>
                 
                 </ul>
               </div>
